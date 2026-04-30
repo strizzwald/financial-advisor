@@ -27,7 +27,7 @@ Products and concepts extracted from the technical guide.
 ## Statistics
 
 - Total topics: 16
-- Last extracted: 2026-04-27 21:07
+- Last extracted: 2026-04-30 04:52
 
 ---
 
