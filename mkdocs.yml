@@ -14,6 +14,7 @@ theme:
 nav:
   - Home: index.md
   - Brand Voice: brand-voice.md
+  - Agent Guidance: claude.md
   - Topics: topics/index.md
   - Posts:
       - All Posts: posts/index.md
