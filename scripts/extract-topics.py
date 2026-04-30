@@ -111,8 +111,12 @@ def save_topics(topics: list[dict], output_dir: str):
     print(f"✅ Topics index: {index_file}")
 
 def main():
-    technical_guide = Path("/Users/kennedysigauke/Downloads/LibertyLifestyleProtectorTechnicalGuide.md")
-    output_dir = "/Users/kennedysigauke/Work/Personal/financial-advisor/docs/topics"
+    # Get the project root (parent of scripts directory)
+    script_dir = Path(__file__).parent
+    project_root = script_dir.parent
+
+    technical_guide = project_root / "source" / "LibertyLifestyleProtectorTechnicalGuide.md"
+    output_dir = project_root / "docs" / "topics"
 
     if not technical_guide.exists():
         print(f"❌ Technical guide not found: {technical_guide}")
@@ -122,7 +126,7 @@ def main():
     topics = extract_topics(str(technical_guide))
     print(f"📊 Found {len(topics)} topics\n")
 
-    save_topics(topics, output_dir)
+    save_topics(topics, str(output_dir))
     print(f"\n✅ Topics extracted to: {output_dir}")
 
 if __name__ == "__main__":
