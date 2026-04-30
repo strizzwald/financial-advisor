@@ -1,0 +1,35 @@
+site_name: Financial Advisor Content Hub
+site_description: Social media content generator for financial education
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: indigo
+    accent: indigo
+  features:
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - Brand Voice: brand-voice.md
+  - Topics: topics/index.md
+  - Posts:
+      - All Posts: posts/index.md
+      - LinkedIn: posts/linkedin/index.md
+      - Instagram: posts/instagram/index.md
+      - TikTok: posts/tiktok/index.md
+      - Infographics: posts/infographics/index.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - admonition
