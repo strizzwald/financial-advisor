@@ -70,11 +70,11 @@ Use these as raw material for relatable, story-driven content. Never use real na
 - Car: R2,800
 - Groceries (household of 5): R5,200
 - Savings: R0
-- Funeral cover: R0 (relies on stokvel "when the time comes")
+- Funeral cover: R0 ("the family will pull together when the time comes")
 
-**The gap:** A single funeral in the family costs R15,000–R40,000. The stokvel rarely covers it.
+**The gap:** A single funeral costs R15,000–R40,000. Families do pull together — but that means passing the hat while grieving, with a funeral home asking for a deposit within 4 days.
 **Relevant products:** Funeral Benefit, Life Cover
-**Content hook:** "The average funeral in SA costs R25,000. Most families don't have it — and find out the hard way."
+**Content hook:** "The average funeral costs R25,000. Most families assume someone else has it covered — and find out the hard way."
 
 ---
 

@@ -77,6 +77,24 @@
 - ✅ Always: "everyone's situation is different"
 - ✅ Encourage: speak to a professional
 
+## Caption & Headline Language
+Captions must feel human, not like ad copy. Keep the focus on the family or person — not the product or transaction.
+
+**Avoid — sounds like a sales brochure or payday loan ad:**
+- ❌ "Fast cash for funeral costs — sorted in advance"
+- ❌ "Get covered today"
+- ❌ "Protect your family with the right product"
+- ❌ Anything with "fast cash", "sorted", "get covered", or "the right solution"
+
+**Use instead — lead with the person, the moment, or the emotion:**
+- ✅ "So your family doesn't have to figure out the money while they're still crying."
+- ✅ "One less thing they have to carry."
+- ✅ "Grief is heavy enough without the bill."
+- ✅ "The money should already be there."
+- ✅ "Sort this one before the moment arrives."
+
+The test: would a caring friend say this, or does it sound like a banner ad?
+
 ## Sign-off Examples
 - LinkedIn: "What's your biggest [topic] concern?"
 - Instagram/TikTok: "Drop a 💬 if this resonates"
